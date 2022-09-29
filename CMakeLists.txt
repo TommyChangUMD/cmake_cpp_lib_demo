@@ -2,7 +2,7 @@
 # project can refer to the root source directory of the project as
 # ${LIBDEMO_SOURCE_DIR} and to the root binary directory of the
 # project as ${LIBDEMO_BINARY_DIR}.
-cmake_minimum_required (VERSION 2.6)
+cmake_minimum_required (VERSION 3.2.1)
 project (LIBDEMO)
 
 # Recurse into the "src" and "app" subdirectories. This does not actually
